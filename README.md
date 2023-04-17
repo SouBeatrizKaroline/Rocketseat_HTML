@@ -2,7 +2,7 @@
 
 > Aprendendo HTML
 
-- Documentação: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+- [🔗 Documentação HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 Projeto final do curso
 
